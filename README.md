@@ -25,6 +25,6 @@ Soy desarrollador de software con experiencia en aplicaciones web y soluciones e
 
 ## Contacto
 
-📧 miguelangelpotreronext70@gmail.com
+📧 miguelangelpotrero70@gmail.com
 
 📍 Puebla, México
