@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hola 👋 Soy Miguel Ángel Potrero
 
-<!--
-**Miguelvrx/Miguelvrx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer
 
-Here are some ideas to get you started:
+Soy desarrollador de software con experiencia en aplicaciones web y soluciones empresariales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+
+- Laravel
+- PHP
+- Livewire
+- MySQL
+- C#
+- .NET
+- Python
+- Java
+- Git
+- GitHub
+
+## Actualmente
+
+- 📚 Aprendiendo Spring Boot
+- 🚀 Mejorando mis habilidades en Backend
+- 💼 Desarrollando aplicaciones web
+
+## Contacto
+
+📧 miguelangelpotreronext70@gmail.com
+
+📍 Puebla, México
