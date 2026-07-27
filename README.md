@@ -13,7 +13,6 @@ Soy desarrollador de software con experiencia en aplicaciones web y soluciones e
 - C#
 - .NET
 - Python
-- Java
 - Git
 - GitHub
 
